@@ -25,6 +25,9 @@
 </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 </a> 
+</a> <a href="https://mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="redux" width="40" height="40"/> </a> <a href="https://mysql.com/" target="_blank" rel="noreferrer"> 
+</a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younessbait&show_icons=true&locale=en&layout=compact" alt="younessbait" /></p>
