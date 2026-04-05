@@ -27,12 +27,11 @@ Passionate about creating efficient, scalable, and user-friendly web application
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younessbait&show_icons=true&theme=transparent" alt="younessbait's stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=younessbait&show_icons=true&locale=en&layout=compact&theme=transparent" alt="younessbait's top langs" />
+<p align="right">
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=younessbait&show_icons=true&theme=default" alt="younessbait's stats" />
+  <br />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs?username=younessbait&show_icons=true&locale=en&layout=compact&theme=default" alt="younessbait's top langs" />
 </p>
 
 ---
