@@ -13,7 +13,6 @@ Passionate about creating efficient, scalable, and user-friendly web application
 ---
 
 ### 🚀 Quick Links
-- 🌍 **Portfolio:** [bitservices.netlify.app](https://bitservices.netlify.app/)
 - 💬 **Ask me about:** **MERN Stack, UI/UX, Web Animations**
 - 📫 **Reach me at:** **youneebait2022@gmail.com**
 
